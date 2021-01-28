@@ -1,0 +1,14 @@
+D:\abc\_lập trình mạng\TH_LAB02\Menu\Menu\bin\Debug\Menu.exe.config
+D:\abc\_lập trình mạng\TH_LAB02\Menu\Menu\bin\Debug\Menu.exe
+D:\abc\_lập trình mạng\TH_LAB02\Menu\Menu\bin\Debug\Menu.pdb
+D:\abc\_lập trình mạng\TH_LAB02\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+D:\abc\_lập trình mạng\TH_LAB02\Menu\Menu\obj\Debug\Menu.Form1.resources
+D:\abc\_lập trình mạng\TH_LAB02\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+D:\abc\_lập trình mạng\TH_LAB02\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+D:\abc\_lập trình mạng\TH_LAB02\Menu\Menu\obj\Debug\Menu.exe
+D:\abc\_lập trình mạng\TH_LAB02\Menu\Menu\obj\Debug\Menu.pdb
+D:\abc\_lập trình mạng\TH_LAB02\Menu\Menu\obj\Debug\Menu.Lab02_Bai01.resources
+D:\abc\_lập trình mạng\TH_LAB02\Menu\Menu\obj\Debug\Menu.Lab02_Bai02.resources
+D:\abc\_lập trình mạng\TH_LAB02\Menu\Menu\obj\Debug\Menu.Lab02_Bai03.resources
+D:\abc\_lập trình mạng\TH_LAB02\Menu\Menu\obj\Debug\Menu.Lab02_Bai04.resources
+D:\abc\_lập trình mạng\TH_LAB02\Menu\Menu\obj\Debug\Menu.Lab02_Bai05.resources
